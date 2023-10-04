@@ -36,7 +36,7 @@
 
 !----------------------------------------------------------------------------------------------
 
-!# general info about the model
+!#  general info about the model
 
       model_number ! counting from the start of the run
       num_zones ! number of zones in the model
